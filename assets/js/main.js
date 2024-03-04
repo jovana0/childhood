@@ -60,7 +60,7 @@ $("#toTop").click(function() {
   $("html, body").animate({scrollTop: 0}, 1000);
 });
 //ispitivanje da li je index starnica
-if(window.location.href=="https://jovana0.github.io/childhood/" || window.location.href=="https://jovana0.github.io/childhood/index.html"){
+if(window.location.href=="https://childhood1.netlify.app" || window.location.href=="https://childhood1.netlify.app/index.html"){
 ajaxCall("assets/data/crtaci.json",function(result){
   ispisTopListe(result);
 })
@@ -82,7 +82,7 @@ function ispisTopListe(nizListe){
 }
 }
 //ispitivanje da li je cartoon stanica
-if(window.location.href.includes("https://jovana0.github.io/childhood/cartoon.html")){
+if(window.location.href.includes("https://childhood1.netlify.app/cartoon.html")){
   ajaxCall("assets/data/crtaci.json",function(result){
     ispisCrtaca(result);
     dodavanjeUlocalStorage("crtaci",result);
@@ -100,7 +100,7 @@ if(window.location.href.includes("https://jovana0.github.io/childhood/cartoon.ht
   let ddugme=document.querySelector("#posalji");
   ddugme.addEventListener("click",provera);
 }
-if(window.location.href.includes("https://jovana0.github.io/childhood/list.html")){
+if(window.location.href.includes("https://childhood1.netlify.app/list.html")){
   prikaziListu();
 }
 function provera(){
