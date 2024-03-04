@@ -60,7 +60,7 @@ $("#toTop").click(function() {
   $("html, body").animate({scrollTop: 0}, 1000);
 });
 //ispitivanje da li je index starnica
-if(window.location.href=="http://127.0.0.1:5500/" || window.location.href=="http://127.0.0.1:5500/index.html"){
+if(window.location.href=="https://jovana0.github.io/childhood/" || window.location.href=="https://jovana0.github.io/childhood/index.html"){
 ajaxCall("assets/data/crtaci.json",function(result){
   ispisTopListe(result);
 })
@@ -82,7 +82,7 @@ function ispisTopListe(nizListe){
 }
 }
 //ispitivanje da li je cartoon stanica
-if(window.location.href.includes("http://127.0.0.1:5500/cartoon.html")){
+if(window.location.href.includes("cartoon.html")){
   ajaxCall("assets/data/crtaci.json",function(result){
     ispisCrtaca(result);
     dodavanjeUlocalStorage("crtaci",result);
@@ -100,7 +100,7 @@ if(window.location.href.includes("http://127.0.0.1:5500/cartoon.html")){
   let ddugme=document.querySelector("#posalji");
   ddugme.addEventListener("click",provera);
 }
-if(window.location.href.includes("http://127.0.0.1:5500/list.html")){
+if(window.location.href.includes("list.html")){
   prikaziListu();
 }
 function provera(){
