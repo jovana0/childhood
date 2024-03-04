@@ -1,0 +1,123 @@
+@media screen and (min-width:1367px){
+    body{
+        background-color: #FFD2D7;
+    }
+    header{
+        width: 1366px;
+        margin: auto;
+    }
+}
+@media screen and (max-width:1025px){
+    .centar{
+        margin-left:290px;
+    }
+    #toplista{
+        margin-left: 0px !important;
+    }
+    #toplista #lista{
+        justify-content: space-evenly !important;
+    }
+    #about{
+        margin-right: 0px !important;
+        margin-left: 10px !important;
+    }
+    #toTop{
+        margin-right: 10px;
+    }
+    #toTop i{
+        padding: 0px;
+    }
+}
+@media screen and (max-width:992px){
+    .centar{
+        margin-left:200px;
+    }
+    #slajder h1{
+        font-size: 35px;
+        letter-spacing: 10px;
+    }
+    #toplista{
+        margin-right: 0px !important;
+    }
+    #about{
+        margin-left: 5px !important;
+        padding: 10px;
+    }
+}
+@media screen and (max-width:768px){
+    .centar{
+        margin-left:190px;
+    }
+    #about h3{
+        font-size: 25px;
+    }
+    main #toplista h3{
+        font-size: 28px;
+    }
+    #about p{
+        font-size: 15px;
+    }
+    footer{
+        height: auto;
+    }
+    #kraj{
+        flex-direction: column-reverse;
+        padding-top: 20px;
+    }
+    footer p{
+        font-size: 20px;
+    }
+    #socijal li a i{
+        font-size: 18px;
+    }
+}
+@media screen and (max-width:480px){
+    body{
+        width: 100%;
+    }
+    .centar{
+        margin-left:140px;
+    }
+    #slajder h1{
+        font-size: 27px;
+        letter-spacing: 5px;
+    }
+    #slajder h2{
+        font-size: 22px;
+    }
+    #toplista{
+        padding: 0px;
+    }
+    #about{
+        margin-left: 0px !important;
+    }
+    #about p{
+        font-size: 13px;
+    }
+    h3{
+        font-size: 20px;
+    }
+    footer p{
+        font-size: 17px;
+    }
+    #socijal li a i{
+        font-size: 15px;
+    }
+    .row{
+        margin-right: 0px !important;
+        margin-left: 0px !important;
+    }
+}
+@media screen and (max-width:425px){
+    .centar{
+        margin-left:100px;
+    } 
+}
+@media screen and (max-width:320px){
+    .centar{
+        margin-left:60px;
+    }
+    #toTop{
+        margin-right: 2px;
+    }
+}

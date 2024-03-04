@@ -1,0 +1,18 @@
+[
+    {
+        "tekst":"Home",
+        "href":"index.html"
+    },
+    {
+        "tekst":"Cartoon",
+        "href":"cartoon.html"
+    },
+    {
+        "tekst":"List: <span id='brojCrtana'></span>",
+        "href":"list.html"
+    },
+    {
+        "tekst":"Author",
+        "href":"author.html"
+    }
+]

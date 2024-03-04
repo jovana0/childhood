@@ -1,0 +1,460 @@
+[
+    {
+        "id":1,
+        "src":"1.jpg",
+        "naziv":"BeyWheelz",
+        "godinaIzlaska":"2012",
+        "brojEpizoda":"13",
+        "tip":"TV",
+        "zanr":["Adventure","Action","Game"]
+    },
+    {
+        "id":2,
+        "src":"2.jpg",
+        "naziv":"Mermaid Melody",
+        "godinaIzlaska":"2003",
+        "brojEpizoda":"91",
+        "tip":"TV",
+        "zanr":["Adventure","Drama","Comedy"]
+    },
+    {
+        "id":3,
+        "src":"3.jpg",
+        "naziv":"Strawberry Shortcake",
+        "godinaIzlaska":"2003",
+        "brojEpizoda":"44",
+        "tip":"TV",
+        "zanr":["Adventure"]
+    },
+    {
+        "id":4,
+        "src":"4.jpg",
+        "naziv":"Wakfu",
+        "godinaIzlaska":"2008",
+        "brojEpizoda":"65",
+        "tip":"TV",
+        "zanr":["Adventure","Family"]
+    },
+    {
+        "id":5,
+        "src":"5.jpg",
+        "naziv":"Code Lyoko",
+        "godinaIzlaska":"2003",
+        "brojEpizoda":"95",
+        "tip":"TV",
+        "zanr":["Adventure","Action"]
+    },
+    {
+        "id":6,
+        "src":"6.jpg",
+        "naziv":"Winx",
+        "godinaIzlaska":"2004",
+        "brojEpizoda":"208",
+        "tip":"TV",
+        "zanr":["Adventure","Action"]
+    },
+    {
+        "id":7,
+        "src":"7.jpg",
+        "naziv":"Kung Fu Panda: Legends of Awesomeness",
+        "godinaIzlaska":"2011",
+        "brojEpizoda":"78",
+        "tip":"TV",
+        "zanr":["Adventure","Action"]
+    },
+    {
+        "id":8,
+        "src":"8.jpg",
+        "naziv":"Transfprmers: Prime",
+        "godinaIzlaska":"2010",
+        "brojEpizoda":"65",
+        "tip":"TV",
+        "zanr":["Adventure","Drama","Action"]
+    },
+    {
+        "id":9,
+        "src":"9.jpg",
+        "naziv":"Teenage Mutant Ninja Turtles",
+        "godinaIzlaska":"2003",
+        "brojEpizoda":"116",
+        "tip":"TV",
+        "zanr":["Adventure","Action","Comedy"]
+    },
+    {
+        "id":10,
+        "src":"10.jpg",
+        "naziv":"Huntik",
+        "godinaIzlaska":"2009",
+        "brojEpizoda":"52",
+        "tip":"TV",
+        "zanr":["Adventure","Action","Comedy"]
+    },
+    {
+        "id":11,
+        "src":"11.jpg",
+        "naziv":"Chaotic",
+        "godinaIzlaska":"2006",
+        "brojEpizoda":"79",
+        "tip":"TV",
+        "zanr":["Adventure","Action","Comedy","Fantasy"]
+    },
+    {
+        "id":12,
+        "src":"12.jpg",
+        "naziv":"Monster High",
+        "godinaIzlaska":"2010",
+        "brojEpizoda":"175",
+        "tip":"TV",
+        "zanr":["Adventure","Family","Comedy"]
+    },
+    {
+        "id":13,
+        "src":"13.jpg",
+        "naziv":"Bratz",
+        "godinaIzlaska":"2005",
+        "brojEpizoda":"40",
+        "tip":"TV",
+        "zanr":["Family","Comedy"]
+    },
+    {
+        "id":14,
+        "src":"14.jpg",
+        "naziv":"Angel's Friends",
+        "godinaIzlaska":"2008",
+        "brojEpizoda":"104",
+        "tip":"TV",
+        "zanr":["Adventure","Fantasy"]
+    },
+    {
+        "id":15,
+        "src":"15.jpg",
+        "naziv":"DokiDoki! PreCure",
+        "godinaIzlaska":"2013",
+        "brojEpizoda":"49",
+        "tip":"TV",
+        "zanr":["Adventure","Action"]
+    },
+    {
+        "id":16,
+        "src":"16.jpg",
+        "naziv":"Bibi Blocksberg",
+        "godinaIzlaska":"1994",
+        "brojEpizoda":"62",
+        "tip":"TV",
+        "zanr":["Adventure","Family","Magic"]
+    },
+    {
+        "id":17,
+        "src":"17.jpg",
+        "naziv":"Bibi and Tina",
+        "godinaIzlaska":"2004",
+        "brojEpizoda":"54",
+        "tip":"TV",
+        "zanr":["Adventure","Drama","Comedy"]
+    },
+    {
+        "id":18,
+        "src":"18.jpg",
+        "naziv":"Tom and Jerry",
+        "godinaIzlaska":"1940",
+        "brojEpizoda":"161",
+        "tip":"TV",
+        "zanr":["Adventure","Action","Comedy"]
+    },
+    {
+        "id":19,
+        "src":"19.jpg",
+        "naziv":"Mickey Mouse Clubhouse",
+        "godinaIzlaska":"2006",
+        "brojEpizoda":"125",
+        "tip":"TV",
+        "zanr":["Adventure","Comedy"]
+    },
+    {
+        "id":20,
+        "src":"20.jpg",
+        "naziv":"The Garfield Show",
+        "godinaIzlaska":"2009",
+        "brojEpizoda":"107",
+        "tip":"TV",
+        "zanr":["Adventure","Comedy"]
+    },
+    {
+        "id":21,
+        "src":"21.jpg",
+        "naziv":"Tokyo mew mew",
+        "godinaIzlaska":"2002",
+        "brojEpizoda":"52",
+        "tip":"TV",
+        "zanr":["Action","Romance","Comedy"]
+    },{
+        "id":22,
+        "src":"22.jpg",
+        "naziv":"Kirarin Revolution",
+        "godinaIzlaska":"2006",
+        "brojEpizoda":"153",
+        "tip":"TV",
+        "zanr":["Music","Comedy"]
+    },
+    {
+        "id":23,
+        "src":"23.jpg",
+        "naziv":"Galactik Football",
+        "godinaIzlaska":"2006",
+        "brojEpizoda":"78",
+        "tip":"TV",
+        "zanr":["Adventure","Action","Sport"]
+    },
+    {
+        "id":24,
+        "src":"24.jpg",
+        "naziv":"Totally Spies!",
+        "godinaIzlaska":"2001",
+        "brojEpizoda":"154",
+        "tip":"TV",
+        "zanr":["Adventure","Action"]
+    },
+    {
+        "id":25,
+        "src":"25.jpg",
+        "naziv":"Geronimo Stilton",
+        "godinaIzlaska":"2009",
+        "brojEpizoda":"78",
+        "tip":"TV",
+        "zanr":["Adventure","Comedy"]
+    },
+    {
+        "id":26,
+        "src":"26.jpg",
+        "naziv":"Pound Puppies",
+        "godinaIzlaska":"2010",
+        "brojEpizoda":"65",
+        "tip":"TV",
+        "zanr":["Adventure","Comedy"]
+    },
+    {
+        "id":27,
+        "src":"27.jpg",
+        "naziv":"Horseland",
+        "godinaIzlaska":"2006",
+        "brojEpizoda":"41",
+        "tip":"TV",
+        "zanr":["Adventure","Family"]
+    },
+    {
+        "id":28,
+        "src":"28.jpg",
+        "naziv":"Penguins of Madagascar",
+        "godinaIzlaska":"2008",
+        "brojEpizoda":"149",
+        "tip":"TV",
+        "zanr":["Adventure","Drama","Action"]
+    },
+    {
+        "id":29,
+        "src":"29.jpg",
+        "naziv":"Master Raindrop",
+        "godinaIzlaska":"2008",
+        "brojEpizoda":"26",
+        "tip":"TV",
+        "zanr":["Adventure","Action","Comedy"]
+    },
+    {
+        "id":30,
+        "src":"30.jpg",
+        "naziv":"The Smurfs",
+        "godinaIzlaska":"1981",
+        "brojEpizoda":"419",
+        "tip":"TV",
+        "zanr":["Adventure","Comedy"]
+    },
+    {
+        "id":51,
+        "src":"51.jpg",
+        "naziv":"Angelina Ballerina: The Next Steps",
+        "godinaIzlaska":"2009",
+        "brojEpizoda":"40",
+        "tip":"TV",
+        "zanr":["Family"]
+    },
+    {
+        "id":31,
+        "src":"31.jpg",
+        "naziv":"The AristoCats",
+        "godinaIzlaska":"1970",
+        "trajanje":"1h 18m",
+        "tip":"Film",
+        "zanr":["Adventure","Family","Comedy"]
+    },
+    {
+        "id":32,
+        "src":"32.jpg",
+        "naziv":"The Lion King",
+        "godinaIzlaska":"1994",
+        "trajanje":"1h 28m",
+        "tip":"Film",
+        "zanr":["Adventure","Family","Drama"]
+    },
+    {
+        "id":33,
+        "src":"33.jpg",
+        "naziv":"Lady and the Tramp",
+        "godinaIzlaska":"1955",
+        "trajanje":"1h 16m",
+        "tip":"Film",
+        "zanr":["Adventure","Family","Comedy","Romance"]
+    },
+    {
+        "id":34,
+        "src":"34.jpg",
+        "naziv":"Aladdin",
+        "godinaIzlaska":"1992",
+        "trajanje":"1h 30m",
+        "tip":"Film",
+        "zanr":["Adventure","Fantasy","Comedy"]
+    },
+    {
+        "id":35,
+        "src":"35.jpg",
+        "naziv":"Beauty and the Beast",
+        "godinaIzlaska":"1991",
+        "trajanje":"1h 24m",
+        "tip":"Film",
+        "zanr":["Fantasy","Family","Romance"]
+    },
+    {
+        "id":36,
+        "src":"36.jpg",
+        "naziv":"Bambi",
+        "godinaIzlaska":"1942",
+        "trajanje":"1h 9m",
+        "tip":"Film",
+        "zanr":["Adventure","Family","Drama"]
+    },
+    {
+        "id":37,
+        "src":"37.jpg",
+        "naziv":"Cars",
+        "godinaIzlaska":"2006",
+        "trajanje":"1h 57m",
+        "tip":"Film",
+        "zanr":["Adventure","Family","Comedy"]
+    },
+    {
+        "id":38,
+        "src":"38.jpg",
+        "naziv":"The Fox and the Hound",
+        "godinaIzlaska":"1981",
+        "trajanje":"1h 23m",
+        "tip":"Film",
+        "zanr":["Adventure","Drama","Family"]
+    },
+    {
+        "id":39,
+        "src":"39.jpg",
+        "naziv":"101 Dalmatians",
+        "godinaIzlaska":"1961",
+        "trajanje":"1h 19m",
+        "tip":"Film",
+        "zanr":["Adventure","Family","Comedy"]
+    },
+    {
+        "id":40,
+        "src":"40.jpg",
+        "naziv":"Barbie as the Princess and the Pauper",
+        "godinaIzlaska":"2004",
+        "trajanje":"1h 25m",
+        "tip":"Film",
+        "zanr":["Family","Comedy"]
+    },
+    {
+        "id":41,
+        "src":"41.jpg",
+        "naziv":"Snow White and the Seven Dwarfs",
+        "godinaIzlaska":"1937",
+        "trajanje":"1h 23m",
+        "tip":"Film",
+        "zanr":["Adventure","Family","Fantasy"]
+    },
+    {
+        "id":42,
+        "src":"42.jpg",
+        "naziv":"Barbie and the Three Musketeers",
+        "godinaIzlaska":"2009",
+        "trajanje":"1h 21m",
+        "tip":"Film",
+        "zanr":["Adventure","Family"]
+    },
+    {
+        "id":43,
+        "src":"43.jpg",
+        "naziv":"The Little Mermaid",
+        "godinaIzlaska":"1989",
+        "trajanje":"1h 23m",
+        "tip":"Film",
+        "zanr":["Adventure","Family","Fantasy"]
+    },
+    {
+        "id":44,
+        "src":"44.jpg",
+        "naziv":"Peter Pan",
+        "godinaIzlaska":"1953",
+        "trajanje":"1h 17m",
+        "tip":"Film",
+        "zanr":["Adventure","Family","Fantasy"]
+    },
+    {
+        "id":45,
+        "src":"45.jpg",
+        "naziv":"Robin Hood",
+        "godinaIzlaska":"1973",
+        "trajanje":"1h 23m",
+        "tip":"Film",
+        "zanr":["Adventure","Family","Comedy"]
+    },
+    {
+        "id":46,
+        "src":"46.jpg",
+        "naziv":"Barbie in the Nutcracker",
+        "godinaIzlaska":"2001",
+        "trajanje":"1h 16m",
+        "tip":"Film",
+        "zanr":["Family","Music"]
+    },
+    {
+        "id":47,
+        "src":"47.jpg",
+        "naziv":"Barbie in a Mermaid Tale",
+        "godinaIzlaska":"2010",
+        "trajanje":"1h 15m",
+        "tip":"Film",
+        "zanr":["Family","Fantasy"]
+    },
+    {
+        "id":48,
+        "src":"48.jpg",
+        "naziv":"Barbie of Swan Lake",
+        "godinaIzlaska":"2003",
+        "trajanje":"1h 21m",
+        "tip":"Film",
+        "zanr":["Family"]
+    },
+    {
+        "id":49,
+        "src":"49.jpg",
+        "naziv":"Barbie in the 12 Dancing Princesses",
+        "godinaIzlaska":"2006",
+        "trajanje":"1h 23m",
+        "tip":"Film",
+        "zanr":["Family"]
+    },
+    {
+        "id":50,
+        "src":"50.jpg",
+        "naziv":"Tangled",
+        "godinaIzlaska":"2010",
+        "trajanje":"1h 40m",
+        "tip":"Film",
+        "zanr":["Adventure","Comedy"]
+    }
+]

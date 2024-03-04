@@ -1,0 +1,153 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+li{
+    list-style-type: none !important;
+}
+body{
+    font-family: 'Signika', sans-serif !important;
+    background-color: rgba(255, 210, 215, 0.7);
+}
+header{
+   width: auto;
+   height: auto;
+}
+#header{
+    padding: 0px !important;
+    margin: 0px !important;
+}
+#logo1{
+    width: 1349px !important;
+}
+li{
+    list-style-type: none !important;
+}
+nav{
+    background-color: #FFD2D7 !important;
+}
+nav #nav li a{
+    color: #322653 !important;
+    font-size: 22px !important;
+}
+.centar{
+    margin-left: 490px;
+}
+#navigacija{
+    border-color: #322653 !important;
+}
+#slajder{
+    color: #322653 !important;
+    margin-top: 20px;
+    background: url(../img/Нови\ пројекат.jpg);
+    text-align: center !important;
+}
+#slajder h1{
+    font-weight: bold;
+    font-size: 45px;
+    letter-spacing: 15px;
+}
+#slajder h2{
+    font-style: italic;
+    letter-spacing: 5px;
+}
+main{
+    text-align: center !important;
+    width: 100% !important;
+}
+main #toplista{
+    width: 100% !important;
+    margin-left: 100px;
+}
+main #toplista h3{
+    color: #322653 !important;
+    font-size: 35px;
+}
+.boja{
+    background-color:#8062d6;
+    color: #FFD2D7;
+}
+#toTop{
+    float: right;
+    position:sticky;
+    margin-right:25px;
+    background-color:transparent;
+    bottom: 5px;
+}
+#toTop i{
+    font-size: 30px;
+    padding: 10px;
+    color: #322653;
+}
+#about{
+    background-color: #322653;
+    color: #FFD2D7;
+    border-radius: 15px 100px;
+    padding: 15px;
+    text-align: justify;
+}
+main #about h3{
+    color: #FFD2D7 !important;
+    font-size: 35px;
+}
+main #about p{
+    font-size: 20px;
+}
+footer{
+    background-color: #8062d6;
+    height: 80px;
+}
+footer #kraj{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 25px;
+}
+footer p{
+    color: #FFD2D7;
+    font-size: 25px;
+    float: left;
+}
+#socijal{
+    float: right;
+}
+#socijal li{
+    float:inline-start ;
+    margin-right: 15px;
+}
+#socijal li a i{
+    color: #FFD2D7;
+    font-size: 20px;
+}
+#sortiranje{
+    width: 150px;
+    background-color: transparent;
+    border-radius: 5px;
+    color: #322653;
+    border: #322653 1px solid;
+}
+#filtriranje{
+    width: 300px;
+    color: #322653;
+}
+.loader_bg {
+    position: fixed;
+    z-index: 9999999;
+    background:  rgba(255, 210, 215, 1);
+    width: 100%;
+    height: 100%;
+}
+.loader {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#author{
+    background-color: transparent !important;
+    border: 0px !important;
+}
