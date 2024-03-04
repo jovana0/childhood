@@ -82,7 +82,7 @@ function ispisTopListe(nizListe){
 }
 }
 //ispitivanje da li je cartoon stanica
-if(window.location.href.includes("cartoon.html")){
+if(window.location.href.includes("https://jovana0.github.io/childhood/cartoon.html")){
   ajaxCall("assets/data/crtaci.json",function(result){
     ispisCrtaca(result);
     dodavanjeUlocalStorage("crtaci",result);
@@ -100,7 +100,7 @@ if(window.location.href.includes("cartoon.html")){
   let ddugme=document.querySelector("#posalji");
   ddugme.addEventListener("click",provera);
 }
-if(window.location.href.includes("list.html")){
+if(window.location.href.includes("https://jovana0.github.io/childhood/list.html")){
   prikaziListu();
 }
 function provera(){
